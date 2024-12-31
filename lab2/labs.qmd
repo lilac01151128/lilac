@@ -1,0 +1,40 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      
+  output: true    
+  warning: false  
+  error: false    
+jupyter: python3
+---
+
+
+# Exercises-Chipotle 1
+{{< embed "labs/Labexercises/lab1/Exercises-Chipotle 1.ipynb" echo=true >}}
+
+# Exercises-Chipotle 2
+{{< embed "labs/Labexercises/lab1/Exercises-Chipotle 2.ipynb" echo=true >}}
+
+# Exercises-chipotle 3
+{{< embed "labs/Labexercises/lab1/Exercises-chipotle 3.ipynb" echo=true >}}
+
+# Exercises-Euro12 2
+{{< embed "labs/Labexercises/lab1/Exercises-Euro12 2.ipynb" echo=true >}}
+
+# Exercises-Occupation 1
+{{< embed "labs/Labexercises/lab1/Exercises-Occupation 1.ipynb" echo=true >}}
+
+# Exercises-Scores 3
+{{< embed "labs/Labexercises/lab1/Exercises-Scores 3.ipynb" echo=true >}}
+
+# Exercises-World Food Facts 1
+{{< embed "labs/Labexercises/lab1/Exercises-World Food Facts 1.ipynb" echo=true >}}

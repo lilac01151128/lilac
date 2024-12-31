@@ -1,0 +1,12 @@
+{
+  "hash": "b8e6d79b658ec1d8fe8e1d304d956064",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      \n  output: true    \n  warning: false  \n  error: false    \njupyter: python3\n---\n\n\n\n\n\n\n# practice1\n\n\n\n\n{{< embed \"labs/Practice/practice1/practice 1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practice2\n\n\n\n\n{{< embed \"labs/Practice/practice2/practical2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practice3-1\n\n\n\n\n{{< embed \"labs/Practice/practice3/practice_3-1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practice3-2\n\n\n\n\n{{< embed \"labs/Practice/practice3/practice_3-2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practice3-3\n\n\n\n\n{{< embed \"labs/Practice/practice3/practice_3-3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practice4\n\n\n\n\n{{< embed \"labs/Practice/practice4/practice 4.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "practice_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

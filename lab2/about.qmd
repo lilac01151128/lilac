@@ -1,0 +1,28 @@
+---
+title: ""
+---
+
+::: {.content-block .about-section}
+# Hi, I'm Zhang Xinyue!
+
+![](images/profile.jpg)
+
+Hello, it’s my great honor to introduce myself to you. My name is Zhang Xinyue, I’m 25 years old right now,I graduated from China University of Geosciences in Wuhan, majored in Ideological and Political Education .I graduated from college in 2021 and have taught in a high school for two years .
+:::
+
+::: {.content-block}
+## My hobbies
+
+In my spare time, I love watching movies, traveling and photography.
+I especially like to travel, I like the state of being on the road, and I like to feel the human landscape and city atmosphere of different regions. Traveling and living in a different city is a very relaxing and comfortable thing for me, and I enjoy it very much.
+:::
+
+::: {.content-block}
+## My Interests
+
+my favorite book is The fruit of Earth ,which was written by André Gide,
+It has given young people a lot of inspiration and also helped me to have better conversations with myself, which has benefited me greatly.
+my favorite movie is An elephant sitting still, which was directed by Hubo, a Chinese artistic film director, describing a realistic china, the visuals are not beautiful but has profound Implications.and I was impressed by the “real”          
+In my studies, I hope I can learn more, improve my language learning ability, work well with my professors and classmates, complete my teaching tasks and graduate successfully; in my life, I hope I can have the opportunity to travel well in Belarus and experience the local life.
+:::
+

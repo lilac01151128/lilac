@@ -1,0 +1,12 @@
+{
+  "hash": "90b8fed5c2dd6992d78d8bdc181fa693",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      \n  output: true    \n  warning: false  \n  error: false    \njupyter: python3\n---\n\n\n\n\n\n# Homework-1\n\n\n\n\n{{< embed \"homework/homework 1 bases.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework-1-1\n\n\n\n\n{{< embed \"homework/homework 1 for lecture 3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework-2\n\n\n\n\n{{< embed \"homework/homework 2 for lecture 3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework\n\n\n\n\n{{< embed \"homework/homework for lecture 2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework\n\n\n\n\n{{< embed \"homework/homework for lecture 4.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "homework_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,33 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      
+  output: true    
+  warning: false  
+  error: false    
+jupyter: python3
+---
+
+# Homework-1
+{{< embed "homework/homework 1 bases.ipynb" echo=true >}}
+
+# Homework-1-1
+{{< embed "homework/homework 1 for lecture 3.ipynb" echo=true >}}
+
+# Homework-2
+{{< embed "homework/homework 2 for lecture 3.ipynb" echo=true >}}
+
+# Homework
+{{< embed "homework/homework for lecture 2.ipynb" echo=true >}}
+
+# Homework
+{{< embed "homework/homework for lecture 4.ipynb" echo=true >}}

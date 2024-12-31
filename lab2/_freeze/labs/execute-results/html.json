@@ -1,0 +1,12 @@
+{
+  "hash": "f31cca532688958e5db5b8828ac762e3",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      \n  output: true    \n  warning: false  \n  error: false    \njupyter: python3\n---\n\n\n\n\n\n\n# Exercises-Chipotle 1\n\n\n\n\n{{< embed \"labs/Labexercises/lab1/Exercises-Chipotle 1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Chipotle 2\n\n\n\n\n{{< embed \"labs/Labexercises/lab1/Exercises-Chipotle 2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-chipotle 3\n\n\n\n\n{{< embed \"labs/Labexercises/lab1/Exercises-chipotle 3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Euro12 2\n\n\n\n\n{{< embed \"labs/Labexercises/lab1/Exercises-Euro12 2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Occupation 1\n\n\n\n\n{{< embed \"labs/Labexercises/lab1/Exercises-Occupation 1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Scores 3\n\n\n\n\n{{< embed \"labs/Labexercises/lab1/Exercises-Scores 3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-World Food Facts 1\n\n\n\n\n{{< embed \"labs/Labexercises/lab1/Exercises-World Food Facts 1.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "labs_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

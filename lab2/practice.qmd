@@ -1,0 +1,37 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      
+  output: true    
+  warning: false  
+  error: false    
+jupyter: python3
+---
+
+
+# practice1
+{{< embed "labs/Practice/practice1/practice 1.ipynb" echo=true >}}
+
+# practice2
+{{< embed "labs/Practice/practice2/practical2.ipynb" echo=true >}}
+
+# practice3-1
+{{< embed "labs/Practice/practice3/practice_3-1.ipynb" echo=true >}}
+
+# practice3-2
+{{< embed "labs/Practice/practice3/practice_3-2.ipynb" echo=true >}}
+
+# practice3-3
+{{< embed "labs/Practice/practice3/practice_3-3.ipynb" echo=true >}}
+
+# practice4
+{{< embed "labs/Practice/practice4/practice 4.ipynb" echo=true >}}
